@@ -1,1 +1,1 @@
-docker build -t geoserver .
+docker build -t geoserver-h2 .
